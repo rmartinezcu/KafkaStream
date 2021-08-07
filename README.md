@@ -15,21 +15,20 @@ Para descargarla solo seleccione el branch main, y descarge, en una maquina inst
 
 Se debera de crear 2 topicos: 
 
+```bash
 
-# returns 'words'
-foobar.pluralize('word')
+test-stream-in
 
-# returns 'geese'
-foobar.pluralize('goose')
+test-stream-out
+```
 
-# returns 'phenomenon'
+
+# detalle
 foobar.singularize('phenomena')
 ```
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Muchas gracias a todos los asistentes del taller, gracias por su tiempo.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
