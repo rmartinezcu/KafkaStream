@@ -5,10 +5,11 @@ Proyecto para usarlo como Kafka Stream
 
 ## Instalacion
 
-Para descargarla solo seleccione el branch main, y descarge, en una maquina instalada con GIT, solo es necesario : git clone -b master 
+Para descargarla solo seleccione el branch main, y descarge, en una maquina instalada con GIT, solo es necesario : 
+ 
 
 ```bash
-pip install foobar
+ git clone -b master https://github.com/rmartinezcu/KafkaStream.git
 ```
 
 ## Usage
