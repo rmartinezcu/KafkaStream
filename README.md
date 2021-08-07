@@ -9,13 +9,12 @@ Para descargarla solo seleccione el branch main, y descarge, en una maquina inst
  
 
 ```bash
- git clone -b master https://github.com/rmartinezcu/KafkaStream.git
+ git clone https://github.com/rmartinezcu/KafkaStream.git
 ```
+## Debera crear 2 Topicos
 
-## Usage
+Se debera de crear 2 topicos: 
 
-```python
-import foobar
 
 # returns 'words'
 foobar.pluralize('word')
