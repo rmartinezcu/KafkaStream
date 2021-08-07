@@ -22,11 +22,6 @@ test-stream-in
 test-stream-out
 ```
 
-
-# detalle
-foobar.singularize('phenomena')
-```
-
 ## Contributing
 Muchas gracias a todos los asistentes del taller, gracias por su tiempo.
 
